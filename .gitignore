@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+*.pth
+
+# распаковывается ноутбуком из plates.zip
+lab4_Rudenko/plates/
+lab4_Rudenko/train/
+lab4_Rudenko/val/
+lab4_Rudenko/test/
+lab4_Rudenko/__MACOSX/
